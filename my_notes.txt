@@ -1,0 +1,3 @@
+Primera nota: revisar compatibilidad de hardware.
+Segunda nota: optimizar formato de informe técnico.
+Tercera nota: preparar presentación académica en PowerPoint.
